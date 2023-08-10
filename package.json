@@ -1,0 +1,23 @@
+{
+  "name": "discorddonormonitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/versx/DiscordDonorMonitor.git"
+  },
+  "author": "versx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/versx/DiscordDonorMonitor/issues"
+  },
+  "homepage": "https://github.com/versx/DiscordDonorMonitor#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "ontime": "0.0.6"
+  }
+}

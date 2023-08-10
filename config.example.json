@@ -1,0 +1,11 @@
+{
+	"token": "",
+	"mainServer": "",
+	"mainDonorRole": "",
+	"logChannel": "",
+	"autoRemoveDonorRoles": true,
+	"servers": [
+		{ "id": "", "roleId": "" },
+		{ "id": "", "roleId": "" }
+	]
+}
